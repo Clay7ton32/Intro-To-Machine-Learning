@@ -94,11 +94,11 @@ unique_words.update(words)
 print(f"Unique Words: {len(unique_words)}")
 """
 
+"""
 #Question 7
 str = "Name\t Age\t Country\t City\nAsabench\t 250\t Finland\t Helsinki"
 print(str)
-
-
+"""
 
 """
 #Question 8
