@@ -27,4 +27,4 @@ y_pred = nb.predict(x_test)
 result = classification_report(y_test, y_pred)
 print(result)
 
-
+#Naive bayes got me better accuracy, I do not know why
